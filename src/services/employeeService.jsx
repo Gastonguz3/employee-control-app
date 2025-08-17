@@ -1,7 +1,7 @@
 import axios from "axios";
 
 //Endpoint creado en el EmployeeController del backend
-const API_URL = "http://localhost:8080/api/employee";
+const API_URL = "https://employee-control-app-backend.onrender.com/api/employee";
 
 export const getAllEmployees = () => axios.get(`${API_URL}/findall`);
 export const getEmployeeById = (id) => axios.get(`${API_URL}/find/${id}`);

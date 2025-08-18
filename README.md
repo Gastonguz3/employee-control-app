@@ -41,5 +41,9 @@ const API_URL = "http://localhost:8080/api/employee";
 #### Pantalla para crear empleados
 ![](./public/post.png)
 
+Para ver la pagina [ingrese aca](https://gastonguz3.github.io/employee-control-app/)
+
+Para ver el codigo del backend [ingrese aca](https://github.com/Gastonguz3/employee-control-app-backend)
+
 #### Autor: Gaston Guzman [linKedIn](https://www.linkedin.com/in/gaston-guzman-192730352/).
 

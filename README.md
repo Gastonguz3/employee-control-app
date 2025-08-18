@@ -13,7 +13,7 @@ Se comunica con un backend en Spring Boot a través de una API REST y utiliza Ax
 
 * Bootstrap / React-Bootstrap
 
-* JavaScript (ES6+)
+* JavaScript
 
 ### Estructura del proyecto
 

@@ -1,8 +1,12 @@
 # Employee Control App - Frontend
 
-Este proyecto es una interfaz web desarrollada con React + Vite y Bootstrap que permite visualizar, crear, actualizar y eliminar empleados. 
+Este proyecto es una interfaz web desarrollada con React + Vite y Bootstrap que permite visualizar, crear, actualizar y eliminar empleados. La pagina fue desplegada en Github Pages
 
 Se comunica con un backend en Spring Boot a través de una API REST y utiliza Axios para las solicitudes HTTP.
+
+Para ver la pagina [ingrese aca](https://gastonguz3.github.io/employee-control-app/)
+
+Para ver el codigo del backend [ingrese aca](https://github.com/Gastonguz3/employee-control-app-backend)
 
 ### Tecnologias Usadas
 * React 19
@@ -40,10 +44,6 @@ const API_URL = "http://localhost:8080/api/employee";
 
 #### Pantalla para crear empleados
 ![](./public/post.png)
-
-Para ver la pagina [ingrese aca](https://gastonguz3.github.io/employee-control-app/)
-
-Para ver el codigo del backend [ingrese aca](https://github.com/Gastonguz3/employee-control-app-backend)
 
 #### Autor: Gaston Guzman [linKedIn](https://www.linkedin.com/in/gaston-guzman-192730352/).
 
